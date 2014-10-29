@@ -1,8 +1,8 @@
 package test;
 
-import application.CommanderComposant;
-import application.Recherche2;
-import application.RechercheComposant;
+import application.impl.CommanderComposant;
+import application.impl.Recherche2;
+import application.impl.RechercheComposant;
 
 public class Main {
 
